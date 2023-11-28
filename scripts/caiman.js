@@ -26,8 +26,8 @@ document.getElementById('hispanic-mh').addEventListener('click', function() {
         about_one: "",
         about_two: "",
         date: "", 
-        body: "<p><p>In October 2023, Dr. Massiel Snow, a new UF Employment Assistant Program counselor of Hispanic heritage, spoke on the &ldquo;Well at UF&rdquo; podcast about barriers. These were not lines in the sand or a concrete wall on a national border, but rather invisible barriers, cultural threads that stopped the Hispanic community from addressing a silent issue: mental health.<br>In Hispanic communities, language is one of the biggest barriers to any service, and the same holds true for mental health.<br>Only about 5% of psychologists are Hispanic, compared to the national 19% of the population, Snow said. Gainesville&rsquo;s Hispanic community comprises 12% of the local population, about 16,000 residents, according to the latest census data.<br>Ivana Jordan, a 19-year-old Puerto Rican UF communication sciences and disorders sophomore, has experienced therapy in both English and Spanish. She felt that language had a noticeable impact on the session&rsquo;s effectiveness.<br>&ldquo;I can express myself well enough in Spanish, but in English I'm able to use more specific words to counterpoint how I'm feeling,&rdquo; Jordan said.<br>While therapy in Spanish may become more prevalent, the communication barrier from client to therapist expands beyond language and into culture.<br>&ldquo;If we can&rsquo;t make that connection with a therapist, we're not going to seek services,&rdquo; Snow said. &ldquo;That therapist is not culturally sensitive. We're going to go into the office and be like, &lsquo;OK, this didn't work. This wasn't worth me even coming,&rsquo; and they'll never come back.&rdquo;<br>Cultural alienation is another important element to understanding Hispanic mental health; when families migrate to the United States, they may only bring immediate family members and, over time, bring the extended family here from abroad. For others, their family may never come. The result is a unique type of alienation, where one feels neither American nor of their native culture.<br>&ldquo;I feel like I've been isolated,&rdquo; Jordan said. &ldquo;I don't get to see my family as often and it&rsquo;s hard for me to fully identify myself with Puerto Rican culture because I feel kind of like an imposter whenever I go back and I feel like a gringa whenever I go back home.&rdquo;<br>Hispanic distrust of medical professionals contributes to the idea that seeking help means &ldquo;giving in&rdquo; to a malignant other.<br>This distrust stems from mass coerced sterilizations of Puerto Rican women in the 1930s-1940s and Mexican women in the 1970s, which remain a starkly recent memory that casts suspicion on any medical professionals, including psychologists.<br>&ldquo;We always think that we have to over-exaggerate symptoms so that we can actually receive help,&rdquo; Jordan said. &ldquo;But this distrust that they're going to overlook anything else that needs attention.&rdquo;<br>As a result, Hispanic communities tend to turn inward to home remedies passed down for generations, stemming from the unique mix of indigenous, African and Spanish heritages.<br>&ldquo;We have such a big indigenous population that still influences a lot within our countries, we have that African heritage that wants to use other methods before others,&rdquo; Snow said. &ldquo;And then on top of that, we have the Spanish influence. Religion is big: Dios [God] will take care of everything. If I pray enough, it'll be taken care of, why go to a doctor?&rdquo;<br>These inward turns to the family, Snow said, point to another concept that prevents access to treatment: &ldquo;familismo.&rdquo; This can be defined as a strong loyalty or dedication to the family. This commitment can have adverse consequences, Snow added, as some may feel that it is impossible to seek help outside of the home.<br>&ldquo;Others are not supposed to know there's something wrong with you,&rdquo; Snow said. &ldquo;So a lot of times you'll hear that invalidation of &lsquo;There's nothing wrong with you. Suck it up. We had to deal with worse coming to this country. You have everything, look at everything we've given you.&rsquo;&rdquo;<br>Those with parents who weren&rsquo;t understanding of mental health challenges had no opportunities to discuss mental health within the family, Jordan said.<br>&ldquo;I have gone to therapy and my mother has known about it, but other than that it&rsquo;s something that we never really talked about,&rdquo; Jordan said. &ldquo;I think it did stem from fear of judgment. I don't even know if any of my other family members have ever gone to a therapist or anything like that.&rdquo;<br>The distance between one&rsquo;s home in the U.S. and one&rsquo;s home abroad is especially difficult for first-generation immigrants who have to leave everyone behind. But the problems continue for the second generation, Snow said, as the separation of families extends to a separation from culture.<br>&ldquo;It's the perception of loneliness because you could be surrounded by your whole entire family, you know, 50 of them, right?&rdquo; Snow said. &ldquo;And you guys are all super close, supposedly, but in your perspective, you cannot connect with anyone within that group.&rdquo;<br>For Daniela Rojas, a 19-year-old UF engineering sophomore of mixed Bolivian and Cuban descent, this idea especially resonated. Despite most of her Cuban family having moved to Miami with her parents, she still feels a disconnect between their experiences.<br>&ldquo;Sometimes the way they speak or the experiences they share with each other, like having struggled living in Cuba,&rdquo; Rojas said. &ldquo;It's just something I can never relate to because I wasn't there. So I feel excluded from that part of my heritage.&rdquo;<br>Another significant touchstone for most Hispanic and, more broadly, immigrant households is the idea of one&rsquo;s obligation to their parents for being given the opportunity to live in the U.S. instead of their home country.<br>&ldquo;I feel like they gave us so much, how they studied so much just to be able to do something with their lives,&rdquo; Rojas said. &ldquo;But I feel the pressure of, &lsquo;Oh, now that I'm here and I don't experience the same difficulties they did, I should be doing more because I can.&rsquo; It leads to a lot of pent-up stress inside.&rdquo;<br>While these cultural barriers continue to affect the mental health of all generations of the U.S. Hispanic community, they are not immutable. Through open dialogue across languages and a candid understanding of different generational experiences, these barriers can be overcome to promote mental health in a community that has remained silent for far too long.</p></p>",
-        desc: "In Hispanic communities, language is one of the biggest barriers to any service, and the same holds true for mental health.Only about 5% of psychologists are Hispanic, compared to the national 19% of the population. Gainesville’s Hispanic community comprises 12% of the local population, about 16,000 residents, according to the latest census data."
+        desc: "In Hispanic communities, language is one of the biggest barriers to any service, and the same holds true for mental health.Only about 5% of psychologists are Hispanic, compared to the national 19% of the population. Gainesville’s Hispanic community comprises 12% of the local population, about 16,000 residents, according to the latest census data.",
+        body: "<p>In October 2023, Dr. Massiel Snow, a new UF Employment Assistant Program counselor of Hispanic heritage, spoke on the &ldquo;Well at UF&rdquo; podcast about barriers. These were not lines in the sand or a concrete wall on a national border, but rather invisible barriers, cultural threads that stopped the Hispanic community from addressing a silent issue: mental health.</p><p>In Hispanic communities, language is one of the biggest barriers to any service, and the same holds true for mental health.</p><p>Only about 5% of psychologists are Hispanic, compared to the national 19% of the population, Snow said. Gainesville&rsquo;s Hispanic community comprises 12% of the local population, about 16,000 residents, according to the latest census data.&nbsp;</p><p>Ivana Jordan, a 19-year-old Puerto Rican UF communication sciences and disorders sophomore, has experienced therapy in both English and Spanish. She felt that language had a noticeable impact on the session&rsquo;s effectiveness.</p><p>&ldquo;I can express myself well enough in Spanish, but in English I'm able to use more specific words to counterpoint how I'm feeling,&rdquo; Jordan said.</p><p>While therapy in Spanish may become more prevalent, the communication barrier from client to therapist expands beyond language and into culture.</p><p>&ldquo;If we can&rsquo;t make that connection with a therapist, we're not going to seek services,&rdquo; Snow said. &ldquo;That therapist is not culturally sensitive. We're going to go into the office and be like, &lsquo;OK, this didn't work. This wasn't worth me even coming,&rsquo; and they'll never come back.&rdquo;</p><p>Cultural alienation is another important element to understanding Hispanic mental health; when families migrate to the United States, they may only bring immediate family members and, over time, bring the extended family here from abroad. For others, their family may never come. The result is a unique type of alienation, where one feels neither American nor of their native culture.</p><p>&ldquo;I feel like I've been isolated,&rdquo; Jordan said. &ldquo;I don't get to see my family as often and it&rsquo;s hard for me to fully identify myself with Puerto Rican culture because I feel kind of like an imposter whenever I go back and I feel like a<em>gringa</em>whenever I go back home.&rdquo;</p><p>Hispanic distrust of medical professionals contributes to the idea that seeking help means &ldquo;giving in&rdquo; to a malignant other.&nbsp;</p><p>This distrust stems from mass coerced sterilizations of <a href='https://www.refinery29.com/en-us/2020/10/10029088/puerto-rico-sterilization-abortion-reproductive-rights-history'>Puerto Rican women</a> in the 1930s-1940s and <a href='https://guides.loc.gov/latinx-civil-rights/madrigal-v-quilligan'>Mexican women</a> in the 1970s, which remain a starkly recent memory that casts suspicion on any medical professionals, including psychologists.&nbsp;</p><p>&ldquo;We always think that we have to over-exaggerate symptoms so that we can actually receive help,&rdquo; Jordan said. &ldquo;But this distrust that they're going to overlook anything else that needs attention.&rdquo;</p><p>As a result, Hispanic communities tend to turn inward to home remedies passed down for generations, stemming from the unique mix of indigenous, African and Spanish heritages.</p><p>&ldquo;We have such a big indigenous population that still influences a lot within our countries, we have that African heritage that wants to use other methods before others,&rdquo; Snow said. &ldquo;And then on top of that, we have the Spanish influence. Religion is big:<em>Dios</em>[God] will take care of everything. If I pray enough, it'll be taken care of, why go to a doctor?&rdquo;</p><p>These inward turns to the family, Snow said, point to another concept that prevents access to treatment: &ldquo;familismo.&rdquo; This can be defined as a strong loyalty or dedication to the family. This commitment can have adverse consequences, Snow added, as some may feel that it is impossible to seek help outside of the home.&nbsp;</p><p>&ldquo;Others are not supposed to know there's something wrong with you,&rdquo; Snow said. &ldquo;So a lot of times you'll hear that invalidation of &lsquo;There's nothing wrong with you. Suck it up. We had to deal with worse coming to this country. You have everything, look at everything we've given you.&rsquo;&rdquo;</p><p>Those with parents who weren&rsquo;t understanding of mental health challenges had no opportunities to discuss mental health within the family, Jordan said.</p><p>&ldquo;I have gone to therapy and my mother has known about it, but other than that it&rsquo;s something that we never really talked about,&rdquo; Jordan said. &ldquo;I think it did stem from fear of judgment. I don't even know if any of my other family members have ever gone to a therapist or anything like that.&rdquo;</p><p>The distance between one&rsquo;s home in the U.S. and one&rsquo;s home abroad is especially difficult for first-generation immigrants who have to leave everyone behind. But the problems continue for the second generation, Snow said, as the separation of families extends to a separation from culture.&nbsp;</p><p>&ldquo;It's the perception of loneliness because you could be surrounded by your whole entire family, you know, 50 of them, right?&rdquo; Snow said. &ldquo;And you guys are all super close, supposedly, but in your perspective, you cannot connect with anyone within that group.&rdquo;</p><p>For Daniela Rojas, a 19-year-old UF engineering sophomore of mixed Bolivian and Cuban descent, this idea especially resonated. Despite most of her Cuban family having moved to Miami with her parents, she still feels a disconnect between their experiences.</p><p>&ldquo;Sometimes the way they speak or the experiences they share with each other, like having struggled living in Cuba,&rdquo; Rojas said. &ldquo;It's just something I can never relate to because I wasn't there. So I feel excluded from that part of my heritage.&rdquo;</p><p>Another significant touchstone for most Hispanic and, more broadly, immigrant households is the idea of one&rsquo;s obligation to their parents for being given the opportunity to live in the U.S. instead of their home country.&nbsp;</p><p>&ldquo;I feel like they gave us so much, how they studied so much just to be able to do something with their lives,&rdquo; Rojas said. &ldquo;But I feel the pressure of, &lsquo;Oh, now that I'm here and I don't experience the same difficulties they did, I should be doing more because I can.&rsquo; It leads to a lot of pent-up stress inside.&rdquo;</p><p>While these cultural barriers continue to affect the mental health of all generations of the U.S. Hispanic community, they are not immutable. Through open dialogue across languages and a candid understanding of different generational experiences, these barriers can be overcome to promote mental health in a community that has remained silent for far too long.&nbsp;</p><p><em>Contact Eluney Gonzalez at egonzalez@alligator.org. Follow him on Twitter</em> <a href='https://twitter.com/Eluney_G'><em>@Eluney_G</em></a>.</p>"
     };
 
     const parent = document.querySelector("#articleContainer");
@@ -41,15 +41,20 @@ document.getElementById('hispanic-mh').addEventListener('click', function() {
     parent.querySelector('#articleBody').innerHTML = myArticle.body;
     parent.querySelector('#articleAbout').innerText = myArticle.about_one;
 
-    if (myArticle.author_two && myArticle.author_two.length > 4) {
+    if (myArticle.author_two.length > 4) {
         parent.querySelector('#articleAbout').innerText += myArticle.about_two;
     }
 
-    parent.querySelector('#articleContact').innerText = myArticle.contact_one;
+    parent.querySelector('#articleCardCaption').style.display = "block";
 
-    if (myArticle.contact_two && myArticle.contact_two.length > 4) {
-        parent.querySelector('#articleAbout').innerText += myArticle.about_two;
+    if (myArticle.card_caption) {
+        parent.querySelector('#articleCardCaption').innerText = myArticle.card_caption;
+parent.querySelector('#articleCardImage').classList.remove("rounded");
+    } else {
+        parent.querySelector('#articleCardCaption').style.display = "none";
+        parent.querySelector('#articleCardImage').classList += " rounded";
     }
+
 
     window.location.hash = myArticle.slug;
 
@@ -85,15 +90,20 @@ document.getElementById('c-hispanic-mh').addEventListener('click', function() {
     parent.querySelector('#articleBody').innerHTML = myArticle.body;
     parent.querySelector('#articleAbout').innerText = myArticle.about_one;
 
-    if (myArticle.author_two && myArticle.author_two.length > 4) {
+    if (myArticle.author_two.length > 4) {
         parent.querySelector('#articleAbout').innerText += myArticle.about_two;
     }
 
-    parent.querySelector('#articleContact').innerText = myArticle.contact_one;
+    parent.querySelector('#articleCardCaption').style.display = "block";
 
-    if (myArticle.contact_two && myArticle.contact_two.length > 4) {
-        parent.querySelector('#articleAbout').innerText += myArticle.about_two;
+    if (myArticle.card_caption) {
+        parent.querySelector('#articleCardCaption').innerText = myArticle.card_caption;
+parent.querySelector('#articleCardImage').classList.remove("rounded");
+    } else {
+        parent.querySelector('#articleCardCaption').style.display = "none";
+        parent.querySelector('#articleCardImage').classList += " rounded";
     }
+    
 
     window.location.hash = myArticle.slug;
 
@@ -129,14 +139,18 @@ document.getElementById('c-uf-mh').addEventListener('click', function() {
     parent.querySelector('#articleBody').innerHTML = myArticle.body;
     parent.querySelector('#articleAbout').innerText = myArticle.about_one;
 
-    if (myArticle.author_two && myArticle.author_two.length > 4) {
+    if (myArticle.author_two.length > 4) {
         parent.querySelector('#articleAbout').innerText += myArticle.about_two;
     }
 
-    parent.querySelector('#articleContact').innerText = myArticle.contact_one;
+    parent.querySelector('#articleCardCaption').style.display = "block";
 
-    if (myArticle.contact_two && myArticle.contact_two.length > 4) {
-        parent.querySelector('#articleAbout').innerText += myArticle.about_two;
+    if (myArticle.card_caption) {
+        parent.querySelector('#articleCardCaption').innerText = myArticle.card_caption;
+parent.querySelector('#articleCardImage').classList.remove("rounded");
+    } else {
+        parent.querySelector('#articleCardCaption').style.display = "none";
+        parent.querySelector('#articleCardImage').classList += " rounded";
     }
 
     window.location.hash = myArticle.slug;
@@ -172,14 +186,18 @@ document.getElementById('c-k-12').addEventListener('click', function() {
     parent.querySelector('#articleBody').innerHTML = myArticle.body;
     parent.querySelector('#articleAbout').innerText = myArticle.about_one;
 
-    if (myArticle.author_two && myArticle.author_two.length > 4) {
+    if (myArticle.author_two.length > 4) {
         parent.querySelector('#articleAbout').innerText += myArticle.about_two;
     }
 
-    parent.querySelector('#articleContact').innerText = myArticle.contact_one;
+    parent.querySelector('#articleCardCaption').style.display = "block";
 
-    if (myArticle.contact_two && myArticle.contact_two.length > 4) {
-        parent.querySelector('#articleAbout').innerText += myArticle.about_two;
+    if (myArticle.card_caption) {
+        parent.querySelector('#articleCardCaption').innerText = myArticle.card_caption;
+parent.querySelector('#articleCardImage').classList.remove("rounded");
+    } else {
+        parent.querySelector('#articleCardCaption').style.display = "none";
+        parent.querySelector('#articleCardImage').classList += " rounded";
     }
 
     window.location.hash = myArticle.slug;
@@ -215,14 +233,18 @@ document.getElementById('c-mh').addEventListener('click', function() {
     parent.querySelector('#articleBody').innerHTML = myArticle.body;
     parent.querySelector('#articleAbout').innerText = myArticle.about_one;
 
-    if (myArticle.author_two && myArticle.author_two.length > 4) {
+    if (myArticle.author_two.length > 4) {
         parent.querySelector('#articleAbout').innerText += myArticle.about_two;
     }
 
-    parent.querySelector('#articleContact').innerText = myArticle.contact_one;
+    parent.querySelector('#articleCardCaption').style.display = "block";
 
-    if (myArticle.contact_two && myArticle.contact_two.length > 4) {
-        parent.querySelector('#articleAbout').innerText += myArticle.about_two;
+    if (myArticle.card_caption) {
+        parent.querySelector('#articleCardCaption').innerText = myArticle.card_caption;
+parent.querySelector('#articleCardImage').classList.remove("rounded");
+    } else {
+        parent.querySelector('#articleCardCaption').style.display = "none";
+        parent.querySelector('#articleCardImage').classList += " rounded";
     }
 
     window.location.hash = myArticle.slug;
@@ -259,14 +281,18 @@ document.getElementById('c-transgender').addEventListener('click', function() {
     parent.querySelector('#articleBody').innerHTML = myArticle.body;
     parent.querySelector('#articleAbout').innerText = myArticle.about_one;
 
-    if (myArticle.author_two && myArticle.author_two.length > 4) {
+    if (myArticle.author_two.length > 4) {
         parent.querySelector('#articleAbout').innerText += myArticle.about_two;
     }
 
-    parent.querySelector('#articleContact').innerText = myArticle.contact_one;
+    parent.querySelector('#articleCardCaption').style.display = "block";
 
-    if (myArticle.contact_two && myArticle.contact_two.length > 4) {
-        parent.querySelector('#articleAbout').innerText += myArticle.about_two;
+    if (myArticle.card_caption) {
+        parent.querySelector('#articleCardCaption').innerText = myArticle.card_caption;
+parent.querySelector('#articleCardImage').classList.remove("rounded");
+    } else {
+        parent.querySelector('#articleCardCaption').style.display = "none";
+        parent.querySelector('#articleCardImage').classList += " rounded";
     }
 
     window.location.hash = myArticle.slug;
